@@ -1,0 +1,11 @@
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\MyStructureMap.exe.config
+E:\测试项目\MyStructureMap\MyStructureMap\obj\Debug\MyStructureMap.csprojResolveAssemblyReference.cache
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\MyStructureMap.exe
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\MyStructureMap.pdb
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\StructureMap.dll
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\StructureMap.Net4.dll
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\StructureMap.pdb
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\StructureMap.xml
+E:\测试项目\MyStructureMap\MyStructureMap\bin\Debug\StructureMap.Net4.pdb
+E:\测试项目\MyStructureMap\MyStructureMap\obj\Debug\MyStructureMap.exe
+E:\测试项目\MyStructureMap\MyStructureMap\obj\Debug\MyStructureMap.pdb
